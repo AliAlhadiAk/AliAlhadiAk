@@ -19,12 +19,12 @@ Passionate about designing and developing scalable, fault-tolerant, and highly a
 - Hands-on experience with **serverless computing** (**AWS Lambda**) for efficient, scalable, and cost-effective solutions.
 
 #### Automation & DevOps:
-- Strong focus on building **CI/CD pipelines** to automate software deployment and testing processes using tools like **Jenkins**, **GitLab CI**, and **AWS CodePipeline**.
-- Implementing Infrastructure as Code (IaC) using **Terraform** and **CloudFormation** to provision and manage AWS resources.
+- Strong focus on building **CI/CD pipelines** to automate software deployment and testing processes using tools like **Jenkins** and **GitHub Actions**.
+- Implementing Infrastructure as Code (IaC) using **Terraform** and to provision and manage AWS resources.
 
 #### Microservices Architecture:
 - Designing and developing **microservices** to enable flexibility, scalability, and easy maintenance.
-- Knowledgeable in **event-driven architectures**, using **RabbitMQ** and **Kafka** for reliable message queuing.
+- Knowledgeable in **event-driven architectures**, using **RabbitMQ**  for reliable message queuing.
 - Proficient in using **Kubernetes** for orchestrating containerized microservices in production environments.
 
 #### Databases & Caching:
@@ -48,7 +48,7 @@ Passionate about designing and developing scalable, fault-tolerant, and highly a
 - **Frameworks & Libraries:** ASP.NET Core, React, React Native, Redux, Tailwind CSS
 - **Cloud Platforms & Tools:** AWS (EC2, S3, Lambda, RDS, ECS, EKS)
 - **Containers & Orchestration:** Docker, Kubernetes (K8s), Helm
-- **CI/CD & DevOps:** Jenkins, GitHub Actions, AWS CodePipeline, Terraform
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, Terraform
 - **Databases & Caching:** PostgreSQL,, MongoDB, Redis, Elasticsearch
 - **Others:** Nginx, RabbitMQ, Firebase, Git, GitHub, GitLab, Postman
 
