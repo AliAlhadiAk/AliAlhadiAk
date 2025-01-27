@@ -1,9 +1,66 @@
-<h1 align="center">Hi 👋, I'm Alialhadi AboKhalil Software Developer From Lebanon</h1>
-<h3 align="center">A passionate FullStack Developer From Lebanon</h3>
+# Hi 👋, I'm Alialhadi AboKhalil, Software Engineer from Lebanon
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Experienced Full Stack Developer | Specialized in ASP.NET and React Native
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Passionate about designing and developing scalable, fault-tolerant, and highly available applications with cloud-native architectures. Expert in building, deploying, and managing cloud-based solutions with full automation using CI/CD pipelines and containerization technologies.
+
+---
+
+### Key Skills and Expertise:
+
+#### Full Stack Development:
+- Specialized in **ASP.NET** for building robust, enterprise-level backend systems.
+- Highly skilled in **React Native** for developing seamless mobile applications (iOS and Android).
+- Proficient in building and integrating **RESTful APIs** with a strong understanding of web development principles.
+
+#### Cloud Architecture & Deployment:
+- Expertise in designing scalable and fault-tolerant architectures for cloud environments (**AWS**, **Azure**, **Google Cloud**).
+- Proficient in deploying containerized applications using **Docker** and managing clusters with **Kubernetes** (K8s).
+- Hands-on experience with **serverless computing** (**AWS Lambda**) for efficient, scalable, and cost-effective solutions.
+
+#### Automation & DevOps:
+- Strong focus on building **CI/CD pipelines** to automate software deployment and testing processes using tools like **Jenkins**, **GitLab CI**, and **AWS CodePipeline**.
+- Implementing Infrastructure as Code (IaC) using **Terraform** and **CloudFormation** to provision and manage AWS resources.
+
+#### Microservices Architecture:
+- Designing and developing **microservices** to enable flexibility, scalability, and easy maintenance.
+- Knowledgeable in **event-driven architectures**, using **RabbitMQ** and **Kafka** for reliable message queuing.
+- Proficient in using **Kubernetes** for orchestrating containerized microservices in production environments.
+
+#### Databases & Caching:
+- Expert in working with both **SQL** (PostgreSQL, MS SQL Server) and **NoSQL** (MongoDB, Redis) databases.
+- Proficient in **database design, performance tuning, and data scaling strategies**.
+
+#### Security & Performance Optimization:
+- Implementing **best security practices** including authentication, authorization, encryption, and secure API design.
+- Optimizing application performance through caching strategies, load balancing, and efficient query design.
+
+#### Cloud-Native Technologies & Tools:
+- Hands-on experience with **ElasticSearch** for fast search and analytics.
+- Building real-time applications using **WebSockets** and leveraging **Firebase** for real-time database needs.
+- Expertise in creating high-performance **Kubernetes clusters** to ensure zero downtime and auto-scaling for microservices.
+
+---
+
+### Tools & Technologies:
+
+- **Languages:** C#, JavaScript (React, Node.js, TypeScript), Python, SQL
+- **Frameworks & Libraries:** ASP.NET Core, React, React Native, Redux, Tailwind CSS
+- **Cloud Platforms & Tools:** AWS (EC2, S3, Lambda, RDS, ECS, EKS)
+- **Containers & Orchestration:** Docker, Kubernetes (K8s), Helm
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, AWS CodePipeline, Terraform
+- **Databases & Caching:** PostgreSQL,, MongoDB, Redis, Elasticsearch
+- **Others:** Nginx, RabbitMQ, Firebase, Git, GitHub, GitLab, Postman
+
+---
+
+### Let’s Build the Future Together 🌟
+
+Whether you’re looking to build a high-performance, scalable application or design a fault-tolerant architecture for the cloud, I have the experience and skills to make your vision a reality. Let’s connect and take your project to the next level!
+
+Feel free to reach out to me for collaboration or if you need someone who is passionate about solving complex software challenges.
+
+---
+
+
+Thanks for visiting my profile! 😄
