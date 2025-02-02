@@ -14,7 +14,7 @@ Passionate about designing and developing scalable, fault-tolerant, and highly a
 - Proficient in building and integrating **RESTful APIs** with a strong understanding of web development principles.
 
 #### Cloud Architecture & Deployment:
-- Expertise in designing scalable and fault-tolerant architectures for cloud environments (**AWS**, **Azure**, **Google Cloud**).
+- Expertise in designing scalable and fault-tolerant architectures for cloud environments (**AWS**).
 - Proficient in deploying containerized applications using **Docker** and managing clusters with **Kubernetes** (K8s).
 - Hands-on experience with **serverless computing** (**AWS Lambda**) for efficient, scalable, and cost-effective solutions.
 
